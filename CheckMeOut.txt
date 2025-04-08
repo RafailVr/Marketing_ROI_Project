@@ -1,0 +1,10 @@
+Title: 'Was the Campaign Worth It? ROI Analysis from Real Customer Data'
+
+Goal: The goal was to analyze whether the marketing campaign was worth the investment, and who it worked best for, so the business can make smarter decisions next time.
+
+Summary: This project analyzes customer response to a marketing campaign using real-world data. It calculates ROI across customer segments (age, education, etc.) to help the business assess the campaign’s effectiveness and guide future targeting strategy.
+The analysis was performed using Python (pandas, matplotlib), and results were visualized in Power BI.
+
+Dataset source: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data
+
+Tools used: Python, PowerBI
